@@ -3,6 +3,9 @@
 ![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![OCR](https://img.shields.io/badge/OCR-EasyOCR-1F2937?style=for-the-badge)
 ![Language](https://img.shields.io/badge/Dictionary-FR_Only-16A34A?style=for-the-badge)
+
+
+
 Bot ultra-rapide pour le jeu **Word Bomb**, utilisant OCR pour détecter les lettres et répondre instantanément avec des noms communs français uniquement.
 
 ---
