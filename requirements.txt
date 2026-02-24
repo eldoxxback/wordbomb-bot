@@ -1,0 +1,6 @@
+mss
+pillow
+easyocr
+wordfreq
+keyboard
+numpy
